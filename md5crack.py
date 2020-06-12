@@ -33,5 +33,5 @@ def crack():
 crack()
 ende = time.time()
 
-
+input("")
 #print([''.join(x) for x in itertools.product('abcABC123', repeat=9)])
